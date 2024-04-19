@@ -2,7 +2,7 @@
 
 Use of these marks and logos is subject to the trademark policy available at [Trademark Policy](https://www.commonhaus.org/policies/trademark-policy/). 
 
-See [branding guidelines](https://www.commonhaus.org/about/branding.html) for additional guidance related to logo usage, colors, and fonts.
+See our [branding guidelines](https://www.commonhaus.org/about/branding.html) for logo usage, colors, and fonts.
 
 <!--
 Low-fi generation: 
