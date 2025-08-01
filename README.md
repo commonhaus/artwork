@@ -1,5 +1,5 @@
-# <img src="https://www.commonhaus.org/images/CF_icon_default.svg" alt="" width="32" height="32"> Commonhaus Foundation Artwork
-go
+# <img src="https://github.com/commonhaus/artwork/raw/main/foundation/brand/svg/CF_icon_default.svg" alt="" width="32" height="32"> Commonhaus Foundation Artwork
+
 Artwork for Commonhaus Foundation and hosted projects 
 
 ## About this artwork
