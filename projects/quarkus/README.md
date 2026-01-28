@@ -14,7 +14,7 @@ Full color logo in vertical orientation for light backgrounds.
 
 ## Vertical Logo Reversed
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_vert_reversed.png" alt="Full color logo in vertical orientation for dark backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_vert_reverse.png" alt="Full color logo in vertical orientation for dark backgrounds.">
 
 Full color logo in vertical orientation for dark backgrounds.
 
@@ -62,7 +62,7 @@ One color black logo in horizontal orientation for light backgrounds.
 
 ## Horizontal Logo White
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_hori_black.png" alt="One color white logo in horizontal orientation for dark backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_hori_white.png" alt="One color white logo in horizontal orientation for dark backgrounds.">
 
 One color white logo in horizontal orientation for dark backgrounds.
 
@@ -149,13 +149,18 @@ Don't use the logotype by itself.
 
 ### Primary Colors
 
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/colorpalette_primary.png" alt="Primary color palette">
+
 The Triad of Quarkus brand colors: Quarkus Blue, Dark Blue and Red. These colors are used most broadly in building visual associations with Quarkus.
+
 
 - Quarkus Blue (#4695EB) Pantone Process Blue U
 - Quarkus Dark Blue (#0D1C2C) Pantone 3035 U
 - Quarkus Red (#FF004A) Pantone 032 U
 
 ### Secondary Colors
+
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/colorpalette_secondary.png" alt="Secondary color palette">
 
 The secondary colors extend the range of colors available for use in graphs, charts and other limited uses.
 
