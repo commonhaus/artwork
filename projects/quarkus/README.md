@@ -146,27 +146,27 @@ Don't use the logotype by itself.
 
 # Social Profile Images
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/quarkus_facebookprofile_360x360.png" alt="Facebook profile image">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/profile/quarkus_facebookprofile_360x360.png" alt="Facebook profile image">
 
 Facebook profile image (360x360)
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/quarkus_linkedinprofile_400x400.png" alt="Linkedin profile image">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/profile/quarkus_linkedinprofile_400x400.png" alt="Linkedin profile image">
 
 LinkedIn profile image (400x400)
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/quarkus_youtubeprofile_800x800.png" alt="Youtube profile image">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/profile/quarkus_youtubeprofile_800x800.png" alt="Youtube profile image">
 
 Youtube profile image (800x800)
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/quarkus_twitterprofile_400x400.png" alt="Twitter profile image">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/profile/quarkus_twitterprofile_400x400.png" alt="Twitter profile image">
 
 Twitter profile image (800x800)
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/quarkus_opencollectiveprofile_256x256.png" alt="Open Collective profile image">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/profile/quarkus_opencollectiveprofile_256x256.png" alt="Open Collective profile image">
 
 Open Collective profile image (256x256)
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/quarkus_githubprofile_200x200.png" alt="Github profile image">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/profile/quarkus_githubprofile_200x200.png" alt="Github profile image">
 
 Github profile image (200x200)
 
