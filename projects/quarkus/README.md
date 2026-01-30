@@ -1,14 +1,14 @@
-# Quarkus Logo Assets
+# Logo Assets
 
-There are two alignments of of the Quarkus logo; Vertical and Horizontal. Choose either depending on your space requirements.
+There are two alignments of the Quarkus logo (vertical and horizontal), use either depending on space requirements.
 
-> **Background Color** Notice we have several versions of logo coloring for use on different background colors (light and dark options). The "default" logo is for use on a light background while the "reverse" logo is for use on dark backgrounds (notice the color of the interior cube element). The one color versions are designed for use when you have to present it monochromatically (notice extra space in interior cube element).
+> **Background Color** Notice there are multiple versions of logo coloring for use on different background colors (light and dark options). The "default" logo is for use on a light background while the "reverse" logo is for use on dark backgrounds. The one-color versions are designed for use when you have to present it monochromatically.
 
 ## Vertical Logo Default
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_vert_default.png" alt="Full color logo in vertical orientation for light backgrounds.">
 
-Full color logo in vertical orientation for light backgrounds.
+Full-color logo in vertical orientation for light backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_450px_default.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_1280px_default.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_default.svg)
 
@@ -16,7 +16,7 @@ Full color logo in vertical orientation for light backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_vert_reverse.png" alt="Full color logo in vertical orientation for dark backgrounds.">
 
-Full color logo in vertical orientation for dark backgrounds.
+Full-color logo in vertical orientation for dark backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_450px_reverse.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_1280px_reverse.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_default.svg)
 
@@ -24,7 +24,7 @@ Full color logo in vertical orientation for dark backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_vert_black.png" alt="One color black logo in vertical orientation for light backgrounds.">
 
-One color black logo in vertical orientation for light backgrounds.
+One-color black logo in vertical orientation for light backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_450px_black.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_1280px_black.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_black.svg)
 
@@ -32,7 +32,7 @@ One color black logo in vertical orientation for light backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_vert_white.png" alt="One color white logo in vertical orientation for dark backgrounds.s">
 
-One color white logo in vertical orientation for dark backgrounds.
+One-color white logo in vertical orientation for dark backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_450px_white.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_1280px_white.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_vertical_white.svg)
 
@@ -40,7 +40,7 @@ One color white logo in vertical orientation for dark backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_hori_default.png" alt="Full color logo in horizontal orientation for light backgrounds.">
 
-Full color logo in horizontal orientation for light backgrounds.
+Full-color logo in horizontal orientation for light backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_450px_default.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_1280px_default.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_default.svg)
 
@@ -48,7 +48,7 @@ Full color logo in horizontal orientation for light backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_hori_reverse.png" alt="Full color logo in horizontal orientation for dark backgrounds.">
 
-Full color logo in horizontal orientation for dark backgrounds.
+Full-color logo in horizontal orientation for dark backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_450px_reverse.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_1280px_reverse.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_reverse.svg)
 
@@ -56,7 +56,7 @@ Full color logo in horizontal orientation for dark backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_hori_black.png" alt="One color black logo in horizontal orientation for light backgrounds.">
 
-One color black logo in horizontal orientation for light backgrounds.
+One-color black logo in horizontal orientation for light backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_450px_black.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_1280px_black.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_black.svg)
 
@@ -64,18 +64,18 @@ One color black logo in horizontal orientation for light backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/logo_hori_white.png" alt="One color white logo in horizontal orientation for dark backgrounds.">
 
-One color white logo in horizontal orientation for dark backgrounds.
+One-color white logo in horizontal orientation for dark backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_450px_white.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_1280px_white.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/logo/quarkus_logo_horizontal_white.svg)
 
-# Quarkus Icon Assets
+# Icon Assets
 
 
 ## Icon Default
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/icon_default.png" alt="Full color icon for light backgrounds.">
 
-Full color icon for light backgrounds.
+Full-color icon for light backgrounds.
 
 [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_512px_default.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_1024px_default.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_default.svg)
 
@@ -83,7 +83,7 @@ Full color icon for light backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/icon_reverse.png" alt="Full color icon for dark backgrounds.">
 
-Full color icon for dark backgrounds.
+Full-color icon for dark backgrounds.
 
 
 [256px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_256px_reverse.png) | [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_512px_reverse.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_1024px_reverse.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_reverse.svg)
@@ -92,7 +92,7 @@ Full color icon for dark backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/icon_black.png" alt="One color black icon for dark backgrounds.">
 
-One color black icon for light backgrounds.
+One-color black icon for light backgrounds.
 
 [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_512px_black.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_1024px_black.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_black.svg)
 
@@ -100,7 +100,7 @@ One color black icon for light backgrounds.
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/images/icon_white.png" alt="One color white icon for light backgrounds.">
 
-One color white icon for dark backgrounds.
+One-color white icon for dark backgrounds.
 
 [256px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_256px_white.png) | [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_512px_white.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_1024px_white.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/quarkus/icon/quarkus_icon_white.svg)
 
@@ -172,7 +172,7 @@ Github profile image (200x200)
 
 
 
-# Quarkus Color Palette
+# Color Palette
 
 ### Primary Colors
 

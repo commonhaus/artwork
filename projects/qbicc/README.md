@@ -1,12 +1,12 @@
 # Logo Assets
 
-There are two alignments of the logo; vertical and horizontal for use depending on your space requirements.
+There are two alignments of the logo (vertical and horizontal) for use depending on your space requirements.
 
 > **Background Color** Notice there are multiple versions of logo coloring for use on different background colors (light and dark options). The "default" logo is for use on a light background while the "reverse" logo is for use on dark backgrounds. The one-color versions are designed for use when you have to present it monochromatically.
 
 ## Vertical Logo Default
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/qbicc/images/logo_vert_default.png" alt="Full-color logo in vertical orientation for light backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/qbicc/images/logo_vertical_default.png" alt="Full-color logo in vertical orientation for light backgrounds.">
 
 Full-color logo in vertical orientation for light backgrounds.
 
@@ -14,7 +14,7 @@ Full-color logo in vertical orientation for light backgrounds.
 
 ## Vertical Logo Reversed
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/qbicc/images/logo_vert_reverse.png" alt="Full-color logo in vertical orientation for dark backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/qbicc/images/logo_vertical_reverse.png" alt="Full-color logo in vertical orientation for dark backgrounds.">
 
 Full-color logo in vertical orientation for dark backgrounds.
 
@@ -23,7 +23,7 @@ Full-color logo in vertical orientation for dark backgrounds.
 
 ## Horizontal Logo Default
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/qbicc/images/logo_hori_default.png" alt="Full-color logo in horizontal orientation for light backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/qbicc/images/logo_horizontal_default.png" alt="Full-color logo in horizontal orientation for light backgrounds.">
 
 Full-color logo in horizontal orientation for light backgrounds.
 
@@ -31,7 +31,7 @@ Full-color logo in horizontal orientation for light backgrounds.
 
 ## Horizontal Logo Reversed
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/qbicc/images/logo_hori_reverse.png" alt="Full-color logo in horizontal orientation for dark backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/qbicc/images/logo_horizontal_reverse.png" alt="Full-color logo in horizontal orientation for dark backgrounds.">
 
 Full-color logo in horizontal orientation for dark backgrounds.
 
