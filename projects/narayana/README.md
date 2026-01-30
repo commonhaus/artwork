@@ -9,7 +9,7 @@
 
 Full-color logo for light backgrounds.
 
-[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default_450px.png) | [1280px](https://github.com/commonhaus/artwork/blob/main/projects/narayana/narayana_logo_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default.svg)
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default.svg)
 
 
 
@@ -19,7 +19,7 @@ Full-color logo for light backgrounds.
 
 Full-color logo for dark backgrounds.
 
-[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default.svg)
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_reverse.svg)
 
 
 # Icon Assets
@@ -28,7 +28,7 @@ Full-color logo for dark backgrounds.
 
 Full-color icon for light backgrounds.
 
-[16px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/narayana_icon_default_16px.png) | [32px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_32px.png) | [64px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_64px.png) | [128px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_128px.png) | [256px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_256px.png) | [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_512px.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_1024px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default.svg)
+[16px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_16px.png) | [32px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_32px.png) | [64px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_64px.png) | [128px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_128px.png) | [256px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_256px.png) | [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_512px.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default_1024px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_default.svg)
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/images/icon_reverse.png" alt="Full-color icon for all backgrounds.">
 
