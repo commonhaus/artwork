@@ -9,7 +9,7 @@
 
 Full-color logo for light backgrounds.
 
-[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default.svg)
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/png/narayana_logo_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/png/narayana_logo_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/svg/narayana_logo_default.svg)
 
 ## Logo Reversed
 
@@ -17,7 +17,7 @@ Full-color logo for light backgrounds.
 
 Full-color logo for dark backgrounds.
 
-[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/narayana_logo_default.svg)
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/png/narayana_logo_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/png/narayana_logo_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/logo/svg/narayana_logo_default.svg)
 
 
 # Icon Assets
@@ -26,12 +26,13 @@ Full-color logo for dark backgrounds.
 
 Full-color icon for light backgrounds.
 
-[16px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_16px.png) | [32px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_32px.png) | [64px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_64px.png) | [128px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_128px.png) | [256px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_256px.png) | [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_512px.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_1024px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse.svg)
+[16px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_16px.png) | [32px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_32px.png) | [64px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_64px.png) | [128px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_128px.png) | [256px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_256px.png) | [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_512px.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_1024px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/svg/narayana_icon_reverse.svg)
 
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/images/icon_reverse.png" alt="Full-color icon for all backgrounds.">
 
 Full-color icon for dark backgrounds.
 
-[16px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_16px.png) | [32px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_32px.png) | [64px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_64px.png) | [128px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_128px.png) | [256px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_256px.png) | [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_512px.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse_1024px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/narayana_icon_reverse.svg)
+[16px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_16px.png) | [32px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_32px.png) | [64px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_64px.png) | [128px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_128px.png) | [256px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_256px.png) | [512px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_512px.png) | [1024px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/png/narayana_icon_reverse_1024px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/narayana/icon/svg/narayana_icon_reverse.svg)
 
 # Social Profile Images
 
