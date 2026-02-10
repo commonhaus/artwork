@@ -5,26 +5,35 @@
 
 ## Logo Default
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/images/logo_default.png" alt="Full-color logo in vertical orientation for light backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/images/logo_vertical_default.png" alt="Full-color logo in vertical orientation for light backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/images/logo_horizontal_default.png" alt="Full-color logo in horizontal orientation for light backgrounds.">
 
-Full-color logo for light backgrounds.
+Vertical logo for light backgrounds.
 
-[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_default.svg)
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_vertical_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_vertical_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_vertical_default.svg)
 
+Horizontal logo for light backgrounds.
+
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_horizontal_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_horizontal_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_horizontal_default.svg)
 
 
 ## Logo Reversed
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/images/logo_reverse.png" alt="Full-color logo in vertical orientation for dark backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/images/logo_vertical_reverse.png" alt="Logo in vertical orientation for dark backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/images/logo_horizontal_reverse.png" alt="Logo in horizontal orientation for dark backgrounds.">
 
-Full-color logo for dark backgrounds.
+Vertical logo for dark backgrounds.
 
-[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_reverse.svg)
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_vertical_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_vertical_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_vertical_reverse.svg)
+
+Horizontal logo for dark backgrounds.
+
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_horizontal_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_horizontal_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/logo/undertow_logo_horizontal_reverse.svg)
 
 
 # Icon Assets
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/images/icon_default.png" alt="Full-color icon for all backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/undertow/images/icon_default.png" alt="Icon for all backgrounds.">
 
 Full-color icon for both light and dark backgrounds.
 
