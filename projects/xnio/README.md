@@ -11,6 +11,10 @@ Horizontal logo for light backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_default.svg)
 
+Vertical logo for light backgrounds.
+
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_vertical_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_vertical_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_vertical_default.svg)
+
 
 ## Logo Reversed
 
@@ -19,6 +23,10 @@ Horizontal logo for light backgrounds.
 Horizontal logo for dark backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_reverse.svg)
+
+Vertical logo for dark backgrounds.
+
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_vertical_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_vertical_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_vertical_reverse.svg)
 
 
 # Icon Assets
