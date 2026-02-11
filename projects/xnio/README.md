@@ -5,13 +5,13 @@
 
 ## Logo Default
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/images/logo_horizontal_default.png" alt="Full-color logo in horizontal orientation for light backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/images/logo_horizontal_default.png" alt="Logo in horizontal orientation for light backgrounds.">
 
 Horizontal logo for light backgrounds.
 
 [450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/logo/xnio_logo_horizontal_default.svg)
 
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/images/logo_vertical_default.png" alt="Full-color logo in vertical orientation for light backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/images/logo_vertical_default.png" alt="Logo in vertical orientation for light backgrounds.">
 
 Vertical logo for light backgrounds.
 
