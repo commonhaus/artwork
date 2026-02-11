@@ -6,7 +6,7 @@
 ## Logo Default
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/images/logo_horizontal_default.png" alt="Logo in horizontal orientation for light backgrounds.">
-<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/images/logo_vertical_default.png" alt="Logo in vertical orientation for light backgrounds.">
+<img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/xnio/images/logo_horizontal_reverse.png" alt="Logo in vertical orientation for light backgrounds.">
 
 Horizontal logo for light backgrounds.
 
