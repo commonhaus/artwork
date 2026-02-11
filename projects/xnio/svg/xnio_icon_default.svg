@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #7b1e1e;
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient);
+        mix-blend-mode: multiply;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="512" cy="147.71" fx="512" fy="147.71" r="516.07" gradientTransform="translate(0 667.82) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c8f91"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="510.47" cy="145.71" fx="510.47" fy="145.71" r="450.19" gradientTransform="translate(0 667.82) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f3d99f"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-2">
+    <g id="Layer_1" data-name="Layer 1">
+      <g>
+        <rect class="cls-4" x="0" width="1024" height="1040.21"/>
+        <rect class="cls-3" x="0" width="1024" height="1040.21"/>
+        <path class="cls-1" d="M828.28,746.25l-224.14-224.14,224.14-224.14v131.43h132.39V71.92h-357.48v132.39h131.43l-224.14,224.14-224.14-224.14h131.43V71.92H60.28v357.48h132.39v-131.43l224.14,224.14-224.14,224.14v-131.43H60.28v357.48h357.48v-132.39h-131.43l224.14-224.14,224.14,224.14h-131.43v132.39h357.48v-357.48h-132.39v131.43Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
