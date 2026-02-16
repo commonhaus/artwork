@@ -78,8 +78,9 @@ Open Collective profile image
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/resteasy/images/colorpalette_primary.png" alt="Primary color palette">
 
-- Brick Red (#7b1e1e)
-- Cream (#f3d99f)
+- Grey 0 (#5d594c)
+- Grey 1 (#c4bfad)
+- Yellow (#d3c734)
 
 
 
