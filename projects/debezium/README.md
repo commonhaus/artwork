@@ -9,7 +9,7 @@
 
 Horizontal logo for light backgrounds.
 
-[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_horizontal_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_horizontal_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_horizontal_default.svg)
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_default_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_default_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_default.svg)
 
 
 ## Logo Reversed
@@ -19,7 +19,7 @@ Horizontal logo for light backgrounds.
 
 Horizontal logo for dark backgrounds.
 
-[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_horizontal_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_horizontal_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_horizontal_reverse.svg)
+[450px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_reverse_450px.png) | [1280px](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_reverse_1280px.png) | [SVG](https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/logo/debezium_logo_reverse.svg)
 
 
 # Icon Assets
