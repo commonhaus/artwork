@@ -63,8 +63,7 @@ Open Collective profile image
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/wildfly/images/colorpalette_primary.png" alt="Primary color palette">
 
-- Blue 0 (#7b1e1e)
-- Blue 1 (#f3d99f)
-- Blue 2 (#f3d99f)
-
+- Blue 0 (#2936ff) PMS 5395C
+- Blue 1 (#94aebd) PMS 5435C
+- Blue 2 (#e1ddf4) PMS 5445C
 
