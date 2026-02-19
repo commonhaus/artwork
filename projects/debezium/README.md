@@ -50,8 +50,9 @@ Open Collective profile image
 
 <img src="https://raw.githubusercontent.com/commonhaus/artwork/refs/heads/main/projects/debezium/images/colorpalette_primary.png" alt="Primary color palette">
 
-- Brick Red (#7b1e1e)
-- Cream (#f3d99f)
+- Blue (#91d443)
+- Black (#000000)
+- Green (#48bfe0)
 
 
 
